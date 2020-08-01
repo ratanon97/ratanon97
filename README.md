@@ -1,4 +1,4 @@
-# :technologist: :camera: :book: :productivity: :thought_balloon:
+# :technologist: :camera: :coffee: :book: :memo: :thought_balloon:
 
 # Professiona Life Overview
 
