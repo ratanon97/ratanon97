@@ -6,4 +6,4 @@ Hey everyone! I'm Ratanon Suksumrun (please call me Tap since it's easier and it
 
 # A little about my personal life
 
-Born and raised in Bangkok! Studied at Lancaster University and Imperial College London for bachelors and masters respeectively. Have a spectrum of interests which includes: photography :camera:, technology :electron:, productivity :memo:, books :book:, coffee :coffee:, scuba diving :diving: and many more!
+Born and raised in Bangkok! Studied at Lancaster University and Imperial College London for bachelors and masters respeectively. Have a spectrum of interests which includes: photography :camera:, technology :electron:, productivity :memo:, books :book:, coffee :coffee:, scuba diving :diving_mask: and many more!
