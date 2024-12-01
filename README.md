@@ -2,10 +2,10 @@
 
 # Professional Life Overview
 
-Hey everyone! I'm Ratanon Suksumrun (please call me Tap since it's easier and it's also my nickname!). I"m a data analyst at Indorama Ventures PCL under the Strategy, Planning and Investor Relations department. My main line of work is to leverage data analytics tools and techniques to devise apporpriate strategies from the data. This is done through capturing data sources, clean/validate the data and integrate onto Tableau. The resulting views and dashboards will then be used for analysis purposes.
+Hey everyone! I'm Ratanon Suksumrun (please call me Tap since it's easier and it's also my nickname!). I"m a Product Owner at Indorama Ventures PCL under the Digital Business Solutions department. My main line of work is to drive digital transformation projects and initiatives to drive business value to the company. Projects I have worked on include Data Lake Integration with Workday Adaptive Planning, Spend Cube Analytics Development, Commercial Cockpit Tableau Dashboards, etc
 
 # Personal Life Overview
 
-Born and raised in Bangkok! Studied at Lancaster University and Imperial College London for bachelors and masters respeectively. Have a spectrum of interests which includes: photography :camera:, technology :electron:, productivity :memo:, books :book:, coffee :coffee:, scuba diving :diving_mask: and many more! 
+Born and raised in Bangkok! Studied at Lancaster University and Imperial College London for bachelors and masters respectively. Have a spectrum of interests which includes: photography :camera:, technology :electron:, productivity :memo:, books :book:, coffee :coffee:, scuba diving :diving_mask: and many more! 
 
 
