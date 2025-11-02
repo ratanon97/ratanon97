@@ -1,118 +1,26 @@
-# Ratanon Suksumrun
+# Hi there! I'm Ratanon Suksumrun 👋
 
-**Project Manager**
-
-*Driving Digital Transformation in Fintech & Enterprise*
-
-Experienced leader specializing in cross-functional team coordination, data-driven solutions, and agile transformation initiatives
-
----
+I'm a **Project Manager** focused on driving digital transformation in **FinTech and Enterprise** environments. With over 5 years of experience in cross-functional team coordination, data-driven solutions, and agile transformation initiatives, I specialize in bridging the gap between technical teams and business objectives to deliver measurable impact.
 
 ## About Me
 
-- 5+ years driving digital transformation initiatives
-- Expert in leading cross-functional teams
-- Agile methodologies and stakeholder management
-- Proven track record in fintech and enterprise environments
-- Specialized in data-driven solution delivery
-- Bridging technical teams with business objectives
+I'm an experienced leader who thrives on leading complex digital transformation initiatives in the fintech and enterprise sectors. My background combines strong project management capabilities with a deep understanding of data analytics and enterprise systems integration. I'm particularly skilled at stakeholder alignment, managing cross-functional teams through agile methodologies, and translating technical capabilities into business value.
 
----
+## What I Do
 
-## Experience
+Currently, I'm a **Project Manager at Omise**, where I'm leading fintech transformation initiatives with over **$300K in annual impact**. I recently delivered the **Report Engine project**, securing a significant annual contract to enhance merchant reporting capabilities, and coordinated cross-functional teams on the **CYBS REST API rollout** for Thai banks—a project that drove approximately **$150K/month in savings** through TikTok Ads/Live migration to KBank Cybs.
 
-### Project Manager — Omise
+Before joining Omise, I spent nearly five years at **Indorama Ventures** as a **Digital Project Manager**, where I spearheaded data integration and analytics transformation. I managed the implementation of Workday's Adaptive Planning module, contributed to procurement analytics solution design with enhanced data warehouse capabilities, developed user-centric Tableau dashboards for improved decision-making, and served as a key liaison managing vendor partnerships for supply chain analytics software.
 
-**Mar 2025 - Present | Bangkok, Thailand**
+## Background
 
-Leading fintech transformation initiatives with $300K+ impact
+I hold an **MSc in Advanced Chemical Engineering with Process Systems Engineering** from **Imperial College London** and a **BEng (Hons) in Chemical Engineering** from **Lancaster University**, where I graduated with First Class Honours and became a member of the Institution of Chemical Engineers. While my formal education is rooted in engineering, my career has evolved toward digital transformation, project management, and data-driven business solutions.
 
-- Delivered the Report Engine project plan, securing a $300K annual contract to enhance merchant reporting
-- Coordinated cross-functional teams on the CYBS REST API rollout for Thai banks, with TikTok Ads/Live migration to KBank Cybs driving ~$150K/month in savings
+## Technical Toolkit
 
-### Digital Project Manager — Indorama Ventures PCL
+I work across a diverse range of tools and platforms. For data work, I use **Python, R, SQL, and Tableau** for analysis and insights. For visualization and reporting, I leverage **Tableau, Excel, and custom dashboard design**. On the project management side, I'm experienced with **Jira, Confluence, Asana, and Miro**. I'm also well-versed in enterprise platforms including **SAP, Workday, and Google Sheets**.
 
-**Jun 2020 - Mar 2025 | Bangkok, Thailand**
+## Let's Connect
 
-Spearheaded data integration and analytics transformation
-
-- Managing the data integration of Workday's Adaptive Planning module by overseeing the backlog, ensuring timely delivery, and coordinating cross-functional teams
-- Contributed to the solution design and data modeling for procurement analytics, enhancing data warehouse and master data management
-- Developed user-centric Tableau dashboards, facilitating enhanced decision-making by tracking business performance
-- Managing a vendor partnership for supply chain analytics software, serving as the key liaison between business users and the vendor
-
----
-
-## Education
-
-### MSc Advanced Chemical Engineering with Process Systems Engineering
-
-**Imperial College London | Sep 2018 - Sep 2019**
-
-London, United Kingdom
-
-Key modules: Advanced Process Design, Advanced Process Operations, Advanced Process Optimisation, Dynamic Behavior of Process Systems, Finance and Financial Management
-
-- Created a probabilistic model in RStudio for the MSc thesis, analyzing methane emissions and cost-effective mitigation technologies using Monte Carlo simulation and sensitivity analysis
-
-### BEng (Hons) Chemical Engineering
-
-**Lancaster University | Oct 2015 - Jun 2018**
-
-Lancaster, United Kingdom | **First Class Honours**
-
-Key modules: Engineering Management, Chemical Engineering Design and Process Safety, Computer Applications in Process Engineering, Business Development Project
-
-- Member of the Institution of Chemical Engineers
-- Contributed to a final year design project on methanol production by waste tyre gasification, focusing on the design of an amine scrubbing unit in Aspen Plus, plant layout, HAZOP, process operations, and economic evaluation
-
----
-
-## Featured Projects
-
-### Report Engine Platform
-
-**Omise — Enterprise reporting solution for merchant analytics**
-
-Tags: Data Analytics | Project Management | Stakeholder Alignment
-
-**Contract Value: $300K annual contract**
-
-### Workday Integration
-
-**Indorama Ventures — Financial planning module integration and automation**
-
-Tags: Workday | Data Integration | Financial Planning
-
-**Outcome: Streamlined financial processes**
-
----
-
-## Skills & Expertise
-
-### Data Tools
-
-- Python
-- R
-- SQL
-- Tableau
-
-### Visualization
-
-- Tableau
-- Excel
-- Dashboard Design
-
-### Project Tools
-
-- Jira
-- Confluence
-- Asana
-- Miro
-
-### Platforms
-
-- SAP
-- Workday
-- Google Sheets
+I'm always interested in discussing digital transformation, data-driven project management, or fintech innovations. Feel free to reach out to explore potential collaborations or opportunities!
 
